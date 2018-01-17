@@ -1,0 +1,19 @@
+{
+  "name": "constructor-hangman",
+  "version": "1.0.0",
+  "description": "Hangman command prompt game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjdefrank/Constructor-Hangman.git"
+  },
+  "author": "MJD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjdefrank/Constructor-Hangman/issues"
+  },
+  "homepage": "https://github.com/mjdefrank/Constructor-Hangman#readme"
+}
